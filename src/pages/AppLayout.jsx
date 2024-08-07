@@ -1,9 +1,9 @@
+import Sidebar from "../components/Sidebar";
 
 function AppLayout() {
   return (
     <div>
-      <AppLayout />
-      <p>AppLayout</p>
+     <Sidebar />
     </div>
   );
 }
