@@ -49,30 +49,6 @@
       }
     },
     {
-      "id": "b644",
-      "cityName": "Herrera del Duque",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T08:10:12.941Z",
-      "notes": "",
-      "position": {
-        "lat": "39.232253141714914",
-        "lng": "-4.94384765625"
-      }
-    },
-    {
-      "id": "34b3",
-      "cityName": "Herrera del Duque",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-08-13T08:10:58.310Z",
-      "notes": "",
-      "position": {
-        "lat": "39.232253141714914",
-        "lng": "-4.94384765625"
-      }
-    },
-    {
       "id": "1a4b",
       "cityName": "Biratnagar",
       "country": "Nepal",
@@ -82,18 +58,6 @@
       "position": {
         "lat": "26.46073804319089",
         "lng": "87.27951049804689"
-      }
-    },
-    {
-      "id": "3cf2",
-      "cityName": "Mafra",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-08-13T08:23:01.999Z",
-      "notes": "",
-      "position": {
-        "lat": "38.94445718138944",
-        "lng": "-9.273834228515627"
       }
     }
   ]
