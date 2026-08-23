@@ -8,7 +8,7 @@ import Form from "./components/Form";
 import { CitiesProvider } from "./contexts/CitiesContext";
 import { AuthProvider } from "./contexts/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
-import SpinnerFullPage from "./pages/SpinnerFullPage";
+import SpinnerFullPage from "./components/SpinnerFullPage";
 
 // import Product from "./pages/Product";
 // import Pricing from "./pages/Pricing";
